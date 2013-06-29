@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">headfirstlabs2NASA</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageTitle">IRIS Launch Set For Thursday</string>
+    <string name="imageDate">Mon, 27 Dec 2010, 00:00:00 EST</string>
+    <string name="imageDescription">Technicians and engineers at Vandenberg Air Force Base in California mate the Pegasus XL rocket with the Interface Region Imaging Spectrograph, or IRIS, solar observatory to the Orbital Sciences L-1011 carrier aircraft. The launch of NASA\'s IRIS mission has been delayed one day to 10:27 p.m. EDT on Thursday, June 27. Live NASA Television launch coverage begins at 9 p.m. IRIS will open a new window of discovery by tracing the flow of energy and plasma through the chromospheres and transition region into the sun’s corona using spectrometry and imaging. The IRIS mission will observe how solar material moves, gathers energy and heats up as it travels through a largely unexplored region of the solar atmosphere. The interface region, located between the sun\'s visible surface and upper atmosphere, is where most of the sun\'s ultraviolet emission is generated. These emissions impact the near-Earth space environment and Earth\'s climate. Image Credit: NASA/Randy Beaudoin</string>
+
+</resources>
