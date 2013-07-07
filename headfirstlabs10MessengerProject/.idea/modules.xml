@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/headfirstlabs10Messenger/headfirstlabs10Messenger.iml" filepath="$PROJECT_DIR$/headfirstlabs10Messenger/headfirstlabs10Messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/headfirstlabs10MessengerProject.iml" filepath="$PROJECT_DIR$/headfirstlabs10MessengerProject.iml" />
+    </modules>
+  </component>
+</project>
+
