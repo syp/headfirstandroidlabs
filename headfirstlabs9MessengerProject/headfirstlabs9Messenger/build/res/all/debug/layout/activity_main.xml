@@ -9,8 +9,42 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/contact_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="Name"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"/>
+    <TextView
+        android:id="@+id/contact_phone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(555)876-5379"
+        android:layout_below="@id/contact_name"
+        android:layout_alignLeft="@id/contact_name"
+        android:layout_marginTop="5dp"/>
+    <Button
+        android:id="@+id/update_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Update Contact"
+        android:layout_below="@id/contact_phone"
+        android:layout_alignLeft="@id/contact_name"
+        android:layout_marginTop="10dp"/>
+    <ImageView
+        android:id="@+id/contact_portrait"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#aaa"
+        android:adjustViewBounds="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/contact_name"
+        android:layout_marginRight="20dp"/>
+    <Button
+        android:id="@+id/im_cool"
+        android:text="I'm Cool"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"/>
 
 </RelativeLayout>
